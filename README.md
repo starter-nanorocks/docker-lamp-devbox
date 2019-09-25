@@ -19,7 +19,7 @@ Requirements on local machine
     - Install php7.X version
     - Install composer
 
-Env setup
+Env setup (For laravel projects)
     
     - git clone <project>
     - Root folder: 'docker-compose up --build -d'
